@@ -108,3 +108,4 @@ C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.pdb
 C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.Migrations.InitialModel.resources
 C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.csproj.GenerateResource.cache
 C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.Migrations.PopulateMembershipTypes.resources
+C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.Migrations.ApplyAnnotationsToCustomerName.resources

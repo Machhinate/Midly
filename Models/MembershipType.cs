@@ -11,5 +11,6 @@ namespace Midly.Models
         public byte DurationInMonths { get; set; }
         public byte DiscountRate { get; set; }
         public byte Id { get; set; }
+        public String Name { get; set; }
     }
 }
