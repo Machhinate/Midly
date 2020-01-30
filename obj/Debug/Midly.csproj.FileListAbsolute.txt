@@ -109,3 +109,5 @@ C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.Migrations.InitialModel.resour
 C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.csproj.GenerateResource.cache
 C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.Migrations.PopulateMembershipTypes.resources
 C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.Migrations.NamedMembershipType.resources
+C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.Migrations.AddBirthDateToCustomer.resources
