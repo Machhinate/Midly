@@ -112,3 +112,4 @@ C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.Migrations.ApplyAnnotationsToC
 C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.Migrations.NamedMembershipType.resources
 C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.Migrations.AddBirthDateToCustomer.resources
 C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.Migrations.MovieViewIndex.resources
+C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.Migrations.MoreMovieThings.resources
