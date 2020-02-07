@@ -113,3 +113,11 @@ C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.Migrations.NamedMembershipType
 C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.Migrations.AddBirthDateToCustomer.resources
 C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.Migrations.MovieViewIndex.resources
 C:\Users\Micah\source\repos\Midly\obj\Debug\Midly.Migrations.MoreMovieThings.resources
+C:\Users\Micah\source\repos\Midly\bin\AutoMapper.dll
+C:\Users\Micah\source\repos\Midly\bin\System.Net.Http.Formatting.dll
+C:\Users\Micah\source\repos\Midly\bin\System.Web.Http.dll
+C:\Users\Micah\source\repos\Midly\bin\System.Web.Http.WebHost.dll
+C:\Users\Micah\source\repos\Midly\bin\AutoMapper.xml
+C:\Users\Micah\source\repos\Midly\bin\System.Net.Http.Formatting.xml
+C:\Users\Micah\source\repos\Midly\bin\System.Web.Http.xml
+C:\Users\Micah\source\repos\Midly\bin\System.Web.Http.WebHost.xml
