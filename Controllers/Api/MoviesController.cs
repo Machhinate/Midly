@@ -7,6 +7,7 @@ using System.Web.Http;
 using Midly.Models;
 using Midly.Dtos;
 using AutoMapper;
+using System.Data.Entity;
 
 namespace Midly.Controllers.Api
 {
@@ -23,7 +24,10 @@ namespace Midly.Controllers.Api
         [HttpGet]
         public IEnumerable<MovieDto> GetMovies()
         {
-            return _context.Movies.ToList().Select(Mapper.Map<Movie, MovieDto>);
+            return _context.Movies
+                .Include(m => m.Genre)
+                .ToList()
+                .Select(Mapper.Map<Movie, MovieDto>);
         }
 
         // GET api/movies/1

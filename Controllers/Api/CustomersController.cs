@@ -7,6 +7,7 @@ using System.Web.Http;
 using Midly.Models;
 using Midly.Dtos;
 using AutoMapper;
+using System.Data.Entity;
 
 namespace Midly.Controllers.Api
 {
@@ -23,7 +24,10 @@ namespace Midly.Controllers.Api
         [HttpGet]
         public IHttpActionResult GetCustomers()
         {
-            var customerDtos = _context.Customers.ToList().Select(Mapper.Map<Customer, CustomerDto>);
+            var customerDtos = _context.Customers
+                .Include(c => c.MembershipType)
+                .ToList()
+                .Select(Mapper.Map<Customer, CustomerDto>);
 
             return Ok(customerDtos);
         }
