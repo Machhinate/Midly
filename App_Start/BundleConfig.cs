@@ -14,7 +14,9 @@ namespace Midly
                         "~/Scripts/bootbox.js",
                         "~/Scripts/respond.js",
                         "~/Scripts/DataTables/jquery.dataTables.js",
-                        "~/Scripts/DataTables/dataTables.bootstrap4.js"
+                        "~/Scripts/DataTables/dataTables.bootstrap4.js",
+                        "~/Scripts/Typeahead.bundle.js",
+                        "~/Scripts/toastr.js"
                         ));
 
             bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
@@ -29,6 +31,8 @@ namespace Midly
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap-lumen.css",
                       "~/Content/DataTables/css/dataTables.bootstrap4.css",
+                      "~/Content/TypeAhead.css",
+                      "~/Content/toastr.css",
                       "~/Content/site.css"));
         }
     }
